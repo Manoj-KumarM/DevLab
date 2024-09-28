@@ -1,2 +1,2 @@
 print("Welcome to VVCE")
-print("Welcome to mysur")
+print("Welcome to mysuru")
